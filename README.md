@@ -1,6 +1,10 @@
 # CC-validator
 This program uses the Luhn Algorigthm to validate a CC number.
 code:
+
+
+
+
 #include <stdio.h>
 #include <iostream>
 #include <string>
