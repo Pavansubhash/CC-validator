@@ -60,3 +60,7 @@ int main() {
 
     return 0;
 }
+
+
+
+![Screenshot (162)](https://github.com/Pavansubhash/CC-validator/assets/109154212/3271ebeb-5294-47c1-8b87-8e76bd82cdc8)
